@@ -35,6 +35,5 @@
   "parser": "babel-eslint",
   "env": {
     "jest": true
-  },
-  "ignorePatterns": ["serviceWorker.js"]
+  }
 }
