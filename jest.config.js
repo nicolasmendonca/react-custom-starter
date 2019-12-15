@@ -6,5 +6,6 @@ module.exports = {
     '!**/node_modules/**',
     '!src/tests/**/*.{js,jsx}', // exclude js files used for utils/mocks/stubs
     '!src/*.js', // exclude base CRA files
+    '!src/redux/createStore.js',
   ],
 };
